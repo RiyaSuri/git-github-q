@@ -1,2 +1,4 @@
 This is a text file that i have.
 I am adding a new line of code.
+This is a line added in the hotfix branch.
+This is a line added in the new-feature branch.
